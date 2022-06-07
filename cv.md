@@ -75,4 +75,4 @@ E: krikos.law@gmail.com
 
 - Russian
 - Ukrainian
-- Englis
+- English
